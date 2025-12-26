@@ -1,8 +1,11 @@
 # 💫 About Me:
 Hi, I’m Yasin, a front-end developer.
 Currently working on: small and medium front-end projects using React, JavaScript, HTML, and CSS.
+
 Looking to collaborate on: creative web apps and learning-focused projects.
+
 Looking for help with: advanced React patterns and state management.
+
 Currently learning: more about React, APIs, and clean UI design.
 
 ## 🌐 Socials:
